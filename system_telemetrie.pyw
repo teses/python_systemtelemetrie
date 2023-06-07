@@ -1,8 +1,6 @@
 """
 Matplotlib in QT5
 Periodisches aktualisieren eines Graphen
-Infos:
-https://www.pythonguis.com/tutorials/plotting-matplotlib/
 
 """
 import sys
